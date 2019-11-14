@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MVPDemo</string>
+    <string name="password_insertion">Enter Any Text Password</string>
+    <string name="name_insertion">Enter Your Name</string>
+    <string name="check">Check</string>
+    <string name="case_empty">Enter Your Name And Password First</string>
+    <string name="case_correct">Finished</string>
+    <string name="case_error">Error</string>
+    <string name="name_require">Name Required</string>
+    <string name="password_require">Password Required</string>
+</resources>
